@@ -42,5 +42,5 @@ After everything for the task was done I proceeded to upload to Github using the
 
 "git remote add origin https://github.com/velitel/sit323-2025-prac2p.git"
 
-"git push -u origin master"
+"git push -u origin main"
 
